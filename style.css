@@ -1,0 +1,158 @@
+body{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.nav{
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    border-bottom: 1px solid rgb(252, 243, 243);
+    position: fixed;
+    width: 100%;
+}
+.logo img{
+    padding: 20px;
+    margin-left: 10px;
+}
+
+.logo-text h2{
+    margin-top: 25px;
+    
+
+}
+
+.btn1{
+    padding: 15px;;
+    background-color:#1A73E8 ;
+    color: #ffffff;
+    border: none;
+}
+.btn2{
+    padding: 15px;
+    color:#1A73E8;
+    border: gray 20px;
+}   
+.styles h1{
+    font-size: 70px;
+
+}
+.section-one{
+    display: flex;
+    border-bottom: 20px;
+    padding-left: 50px;
+    padding-top: 70px;
+}
+.first-image img{
+    width: 600px;
+    margin-left: 150px;
+    margin-top: 30px;
+}
+
+.styles p{
+    font-size: 20px; 
+} 
+
+.pee{
+    display: flex;
+    margin-top: 30px;
+
+
+}
+.pee p{
+    margin-right: 15px;
+}
+
+.p2{
+    color: blue;
+}
+
+.second-header h4{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.second-image img{
+    width: 600px;
+    margin-top: 30px;
+}
+
+.second-main{
+    display: flex;
+}
+
+.second-text{
+    margin-top: 40px;
+}
+
+.second-text h1{
+font-size: 50px;
+}
+.second-text p{
+    font-size: 20px;
+}
+.styleso h1{
+    font-size: 45px;
+    padding-top: 80px
+
+}
+.section-three{
+    display: flex;
+    border-bottom: 20px;
+    padding-left: 50px;
+    margin-top: 70px;
+}
+.third-image img{
+    width: 600px;
+    margin-left: 150px;
+    margin-top: 30px;
+}
+
+.styleso p{
+   font-size: 20px;
+}
+.fourth-image img{
+    width: 600px;
+    margin-top: 30px;
+}
+
+.fourth-main{
+    display: flex;
+    padding-left: 40px;
+}
+
+.fourth-text{
+    margin-top: 40px;
+   padding-left: 50px;
+}
+
+.fourth-text h1{
+font-size: 40px;
+}
+.fourth-text p{
+  font-size: 20px;
+ 
+}
+.section-five{
+    display: flex;
+    border-bottom: 20px;
+    padding-left: 50px;
+    margin-top: 80px;
+    
+
+}
+.stylesoo h1{
+font-size: 45px;
+padding-top: 80px;
+}
+  
+.stylesoo p{
+    font-size: 20px;
+}
+.fifth-image img{
+    width: 600px;
+    margin-left: 50px;
+}
+    
